@@ -1,5 +1,6 @@
 Pipfile
 Pipfile.lock
 .env
-.vscode/
 .venv/
+.ipynb_checkpoints/
+# .vscode/ # Deliberately show vscode setup
