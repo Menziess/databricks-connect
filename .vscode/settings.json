@@ -1,0 +1,17 @@
+{
+  "python.venvPath": ".venv/lib/python3.6/site-packages/pyspark/jars",
+  "python.pythonPath": ".venv/bin/python",
+  "python.linting.enabled": false,
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.pyTestEnabled": true,
+  "python.testing.pyTestArgs": [
+    "tests"
+  ],
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/.venv/**": true,
+    "**/.ipynb_checkpoints/**": true,
+  }
+}
